@@ -96,6 +96,20 @@
 				<role>developer</role>
 			</roles>
 		</developer>
+		<developer>
+			<id>AT01</id>
+			<name> Alan Turing</name>
+			<email>alan@math.com</email>
+			<url> https://es.wikipedia.org/wiki/Alan_Turing</url>
+			<roles>
+			<role>developer</role>
+			</roles>
+			<properties>
+			<picUrl>
+			https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg
+			</picUrl>
+			</properties>
+		</developer>
 	</developers>
 
 	<dependencies>
